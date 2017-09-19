@@ -1,0 +1,2 @@
+# Algorytmy
+Podstawowe algorytmy
