@@ -1,0 +1,31 @@
+30
+insert 10
+insert 5
+insert 15
+insert 1
+insert 7
+insert 6
+insert 16
+min
+max
+inorder
+delete 7
+min
+max
+inorder
+delete 6
+min
+max
+inorder
+delete 1
+min
+max
+inorder
+delete 16
+min
+max
+inorder
+delete 10
+min
+max
+inorder
